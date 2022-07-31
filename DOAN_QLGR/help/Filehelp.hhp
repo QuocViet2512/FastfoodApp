@@ -1,0 +1,24 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Filehelp\Filehelp.chm
+Contents file=Filehelp.hhc
+Index file=Filehelp.hhk
+Binary Index=Yes
+Full-text search=Yes
+Language=0x0409
+Title=help
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="help","Filehelp.hhc","Filehelp.hhk","dangnhap.mht","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+dangnhap.mht
+datmon.mht
+doanhthu.mht
+gioithieu.mht
+khaiquatchucnang.mht
+profile.mht
+tacvuadmin.mht
+
